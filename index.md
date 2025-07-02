@@ -1,5 +1,6 @@
 ---
 title: home
+layout: default
 ---
 
 # Peleg's Nature like Jekyll theme
