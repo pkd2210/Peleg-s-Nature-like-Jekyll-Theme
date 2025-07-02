@@ -1,5 +1,5 @@
-title: tonic-starter
-description: ""
+title: Peleg-Nature-like-Jekyll-theme
+description: "A Jekyll theme based on my original portfolio"
 encoding: utf-8
 
 exclude: ["README.md", "LICENSE", "*.gem", "*.gemspec", "Gemfile.lock"]
